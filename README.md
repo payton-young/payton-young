@@ -18,7 +18,7 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferror"> <img src = "assets/python.png" alt="python3" width="50" height="50" /> </a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferror"> <img src = "assets/java.png" alt="java" width="50" height="50" /> </a>
     <a href="https://www.haskell.org/" target="_blank" rel="noreferror"> <img src = "assets/haskell.png" alt="haskell" width="50" height="50" /> </a>
-    <a href="https://html.com/html5/" target="_blank" rel="noreferror"> <img src = "assets/html5.png" alt="html5" width="50" height="50" /> </a>
+    <a href="https://html.com/html5/" target="_blank" rel="noreferror"> <img src = "assets/html5.jpg" alt="html5" width="50" height="50" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferror"> <img src = "assets/javascript.png" alt="javascript" width="50" height="50" /> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferror"> <img src = "assets/tux.jpg" alt="Linux" width="50" height="50" /> </a>
     <a href="https://docs.docker.com/" target="_blank" rel="noreferror"> <img src = "assets/docker.png" alt="dockerdocs" width="50" height="50" /> </a>
